@@ -7,7 +7,7 @@ Source code based on 68k and A600 "Amiga 600 8 megabytes fastRAM board": http://
 Autoconfig function and Gary IDE registers based on Terriblefire sources (Many thanks to Stephen J. Leary).
 
 CLPD: 
-In the design I used Microchip ATF1508 true 5V CPLD in 100 pin TQFP package. The source code is in verilog.
+In the design I used Microchip ATF1508 true 5V CPLD in 100 pin TQFP package. The source code is in verilog. Design tool - Quartus 13.0sp1.
 
 RAM: 
 The same as in ram68k project: KM416C4104AS-6 or KM416C4104C. 8MB in one chip but quite difficult to find. 
