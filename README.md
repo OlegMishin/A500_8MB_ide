@@ -6,13 +6,13 @@ Inspired by ram68k and ide68k projects: http://www.mklboards.fi/ram68k/ In fact 
 Source code based on 68k and A600 "Amiga 600 8 megabytes fastRAM board": http://lvd.nedopc.com/Projects/a600_8mb/index.html
 Autoconfig function and Gary IDE registers based on Terriblefire sources (Many thanks to Stephen J. Leary).
 
-CLPD
+CLPD: 
 In the design I used Microchip ATF1508 true 5V CPLD in 100 pin TQFP package. The source code is in verilog.
 
-RAM
+RAM: 
 The same as in ram68k project: KM416C4104AS-6 or KM416C4104C. 8MB in one chip but quite difficult to find. 
 
-PCB
+PCB: 
 Two layers board. CAM file included for production.
 
 Notes:
