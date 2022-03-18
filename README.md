@@ -23,7 +23,7 @@ Two layers board. CAM file included for production.
 ![3D_render](https://user-images.githubusercontent.com/81614352/137478370-01d7e0f7-530c-4405-b8d8-a8bc4e3bfd53.png)
 
 # Actual PCB
-![изображение](https://user-images.githubusercontent.com/81614352/159072073-109d2035-aab3-4168-9c01-fd86ad59d76b.png)
+![изображение](https://user-images.githubusercontent.com/81614352/159073952-6bbf11e8-2acb-4636-b400-00bc0ea5ab38.png)
 
 
 # Installation example
