@@ -6,6 +6,8 @@ Inspired by ram68k and ide68k projects: http://www.mklboards.fi/ram68k/ In fact 
 Source code based on 68k and A600 "Amiga 600 8 megabytes fastRAM board": http://lvd.nedopc.com/Projects/a600_8mb/index.html
 Autoconfig function and Gary IDE registers based on Terriblefire sources (Many thanks to Stephen J. Leary).
 
+Works with A500. Doesn't work with CDTV due to DMAC on board (when I have a chance to test, I will update FW for CDTV).
+
 # CLPD: 
 In the design I used Microchip ATF1508 true 5V CPLD in 100 pin TQFP package. The source code is in verilog. Design tool - Quartus 13.0sp1.
 
