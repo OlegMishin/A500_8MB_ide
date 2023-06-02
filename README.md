@@ -10,6 +10,9 @@ Works with A500. Doesn't work with CDTV due to DMAC on board (when I have a chan
 
 # CLPD: 
 In the design I used Microchip ATF1508 true 5V CPLD in 100 pin TQFP package. The source code is in verilog. Design tool - Quartus 13.0sp1.
+The below CPLD can be used in the project:
+ATF1508AS/ASV (TQFP-100) or EPM7128STC100/STI100 with speed grade up to 15ns(tested).
+Also 25ns should work(not yet tested). 
 
 # RAM: 
 The same as in ram68k project: KM416C4104AS-6 or KM416C4104C. Can be salvaged from 72pin SIMM modules.
