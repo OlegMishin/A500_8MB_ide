@@ -8,7 +8,7 @@ Autoconfig function and Gary IDE registers based on Terriblefire sources (Many t
 
 Works with A500. Doesn't work with CDTV due to DMAC on board (when I have a chance to test, I will update FW for CDTV).
 
-Thereis a new revision of the project which doesn't require wires to mainboard. Please check it out:
+**Thereis a new revision of the project** which doesn't require wires to mainboard. Please check it out:
 https://github.com/OlegMishin/A500_8MB_ide2
 
 # CLPD: 
