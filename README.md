@@ -8,6 +8,9 @@ Autoconfig function and Gary IDE registers based on Terriblefire sources (Many t
 
 Works with A500. Doesn't work with CDTV due to DMAC on board (when I have a chance to test, I will update FW for CDTV).
 
+Thereis a new revision of the project which doesn't require wires to mainboard. Please check it out:
+https://github.com/OlegMishin/A500_8MB_ide2
+
 # CLPD: 
 In the design I used Microchip ATF1508 true 5V CPLD in 100 pin TQFP package. The source code is in verilog. Design tool - Quartus 13.0sp1.
 The below CPLD can be used in the project:
