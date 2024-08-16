@@ -15,7 +15,7 @@ https://github.com/OlegMishin/A500_8MB_ide2
 In the design I used Microchip ATF1508 true 5V CPLD in 100 pin TQFP package. The source code is in verilog. Design tool - Quartus 13.0sp1.
 The below CPLD can be used in the project:
 
-ATF1508AS/ASV (TQFP-100) or EPM7128STC100/STI100 with speed grade up to 15ns(tested).
+ATF1508AS (TQFP-100) or EPM7128STC100/STI100 with speed grade up to 15ns(tested).
 Also 25ns should work(not yet tested). 
 
 # RAM: 
